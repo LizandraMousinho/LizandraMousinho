@@ -3,6 +3,10 @@
 
 ### Bio
 
+Sou graduada em Publicidade e Propaganda e também em Sistemas de Informação.
+Atuo na área de Design/Motion/UI/Front End.
+Aprendo com motivação e dedicação.
+
 .
 
 <!--
